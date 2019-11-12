@@ -1,6 +1,11 @@
 # docker-node-10-rsync-python-ssh
 Node 10 container with rsync, python and ssh support
 
+## Links
+
+- [GitLab repository](https://gitlab.com/kirbo/node10-rsync-python-ssh)
+- [GitHub repository](https://github.com/kirbo/node10-rsync-python-ssh)
+- [Docker repository](https://hub.docker.com/repository/docker/kirbownz/node10-rsync-python-ssh)
 
 ## Example how to use this image in GitLab CI/CD
 
